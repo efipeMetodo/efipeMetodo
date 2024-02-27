@@ -79,6 +79,7 @@ body{
 
 .button:hover{
   background-color: var(--base-color-alt);
+  transform: scaleX(1.1);
 }
 
 .divider-1{
