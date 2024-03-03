@@ -74,12 +74,12 @@ body{
   padding: 0 2rem;
   border-radius: 0.25rem;
   font: 500 1rem var(--body-font);
-  transition: background 0.3s;
+  transition: transform 0.2s;
 }
 
 .button:hover{
   background-color: var(--base-color-alt);
-  transform: scaleX(1.1);
+  transform: scale(1.1);
 }
 
 .divider-1{
